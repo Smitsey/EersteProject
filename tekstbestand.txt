@@ -1,2 +1,6 @@
 even testen
+<<<<<<< HEAD
 of dit werkt
+=======
+wijziging remote
+>>>>>>> 2d22da1dcf465881e17064a67e7848d5cbb978cb
